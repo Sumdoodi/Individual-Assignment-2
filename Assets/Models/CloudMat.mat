@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CloudMat
+  m_Shader: {fileID: -6465566751694194690, guid: a53751e23e3fb154b89b344c6f7b0499, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_2E53B52E: 2
+    - Vector1_30286C06: -1
+    - Vector1_4043543: 50
+    - Vector1_55702D6F: 3.11
+    - Vector1_602EEF78: 22
+    - Vector1_8D73B310: -200
+    - Vector1_969E83AB: 0.2
+    - Vector1_981174AE: 2
+    - Vector1_BCA03EF0: 1
+    - Vector1_C9696995: -0.3
+    - Vector1_DBF7C433: 0.8
+    - Vector1_DD4A4CF1: 2
+    - Vector1_FD0EEB47: 0.5
+    m_Colors:
+    - Color_81C9B7AB: {r: 0, g: 0, b: 0, a: 0}
+    - Color_D9BCA14D: {r: 0.3301887, g: 0.3301887, b: 0.3301887, a: 0}
+    - Vector4_6AB1FC97: {r: 0, g: 1, b: -0.3, a: 2.7}
+    - Vector4_B6AEFB94: {r: 1, g: 0, b: 0, a: 90}
+  m_BuildTextureStacks: []
